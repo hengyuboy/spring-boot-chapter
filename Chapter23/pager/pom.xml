@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.yuqiyu</groupId>
+	<artifactId>pager</artifactId>
+	<version>1.0.0</version>
+	<packaging>war</packaging>
+
+	<name>pager</name>
+	<description>Demo project for Spring Boot</description>
+	<build>
+		<finalName>pager</finalName>
+	</build>
+	<parent>
+		<groupId>com.yuqiyu</groupId>
+		<artifactId>chapter23</artifactId>
+		<version>1.0.0</version>
+	</parent>
+	<dependencies>
+		<!--引入用户模块-->
+		<dependency>
+			<groupId>com.yuqiyu</groupId>
+			<artifactId>user</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+	</dependencies>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pager:war">
+    <output-path>$PROJECT_DIR$/pager/target</output-path>
+    <root id="archive" name="pager.war">
+      <element id="artifact" artifact-name="pager:war exploded" />
+    </root>
+  </artifact>
+</component>

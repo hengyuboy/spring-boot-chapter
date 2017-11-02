@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/test?characterEncoding=utf8
+    driverClassName: com.mysql.jdbc.Driver
+    username: root
+    password: root
+  jpa:
+      database: MySQL
+      show-sql: true
+      hibernate:
+        naming_strategy: org.hibernate.cfg.ImprovedNamingStrategy
