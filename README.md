@@ -47,9 +47,11 @@
 #### [第三十六章：基于SpringBoot架构重写SpringMVC请求参数装载](http://www.jianshu.com/p/24ebb66c25cb)
 #### [第三十七章：基于SpringBoot架构以及参数装载完成接口安全认证](http://www.jianshu.com/p/e22691d2ad90)
 #### [第三十八章：基于SpringBoot架构使用Profile完成打包环境分离](http://www.jianshu.com/p/23b4f882f397)
-#### 第三十九章：基于SpringBoot使用MethodInterceptor打印请求参数日志
+#### [第三十九章：基于SpringBoot & Quzrtz完成定时任务分布式持久化](http://www.jianshu.com/p/d52d62fb2ac6)
 #### 第四十章：基于SpringBoot & AOP完成自定义Redis缓存数据读取
 #### 第四十一章：基于SpringBoot & AOP完成自定义Redis缓存数据更新
 #### 第四十二章：基于SpringBoot内置Scheduled动态完成定时任务分配
 #### 第四十三章：开源HGenerator代码生成Maven插件
 #### 第四十四章：基于SpringBoot设计通用框架级别系统异常处理
+#### 第四十五章：基于SpringBoot & RabbitMQ消息队列完成分布式消费
+#### 第四十六章：基于SpringBoot使用MethodInterceptor打印请求参数日志
