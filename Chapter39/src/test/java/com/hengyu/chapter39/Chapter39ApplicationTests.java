@@ -45,7 +45,7 @@ import org.springframework.web.context.WebApplicationContext;
 		public void addGood() throws Exception
 		{
 			MvcResult result = mockMvc.perform(MockMvcRequestBuilders.post("/good/save")
-					.param("name","西瓜")
+					.param("name","西红柿")
 					.param("unit","斤")
 					.param("price","12.88")
 			)

@@ -34,6 +34,6 @@ public class GoodAddTimer
      */
     @Override
     protected void executeInternal(JobExecutionContext jobExecutionContext) throws JobExecutionException {
-        logger.info("商品添加完成后执行任务，任务时间：{}",new Date());
+        logger.info("分布式节点quartz-cluster-node-first，商品添加完成后执行任务，任务时间：{}",new Date());
     }
 }

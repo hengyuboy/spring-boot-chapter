@@ -48,7 +48,7 @@
 #### [第三十七章：基于SpringBoot架构以及参数装载完成接口安全认证](http://www.jianshu.com/p/e22691d2ad90)
 #### [第三十八章：基于SpringBoot架构使用Profile完成打包环境分离](http://www.jianshu.com/p/23b4f882f397)
 #### [第三十九章：基于SpringBoot & Quzrtz完成定时任务分布式持久化](http://www.jianshu.com/p/d52d62fb2ac6)
-#### 第四十章：基于SpringBoot & AOP完成自定义Redis缓存数据读取
+#### [第四十章：基于SpringBoot & Quartz完成定时任务分布式多节点负载持久化](http://www.jianshu.com/p/49133c107143)
 #### 第四十一章：基于SpringBoot & AOP完成自定义Redis缓存数据更新
 #### 第四十二章：基于SpringBoot内置Scheduled动态完成定时任务分配
 #### 第四十三章：开源HGenerator代码生成Maven插件

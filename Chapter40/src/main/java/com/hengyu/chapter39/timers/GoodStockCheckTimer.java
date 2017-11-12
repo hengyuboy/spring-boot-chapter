@@ -29,6 +29,6 @@ public class GoodStockCheckTimer
 
     @Override
     protected void executeInternal(JobExecutionContext jobExecutionContext) throws JobExecutionException {
-        logger.info("分布式节点quartz-cluster-node-first，执行库存检查定时任务，执行时间：{}",new Date());
+        logger.info("分布式节点quartz-cluster-node-second，执行库存检查定时任务，执行时间：{}",new Date());
     }
 }

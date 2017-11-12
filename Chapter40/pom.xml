@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.hengyu</groupId>
-	<artifactId>chapter39</artifactId>
+	<artifactId>chapter40</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>chapter39</name>
+	<name>chapter40</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

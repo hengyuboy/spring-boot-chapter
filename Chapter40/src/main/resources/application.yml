@@ -10,9 +10,9 @@ spring:
       ddl-auto: update #ddl-auto:设为update表示每次都不会重新建表
     show-sql: true
   application:
-    name: quartz-cluster-node-first
+    name: quartz-cluster-node-second
 server:
-  port: 8081
+  port: 8082
 #####################################################################################################
 # 打印日志
 logging:
