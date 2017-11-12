@@ -1,11 +1,11 @@
 ﻿# 简书整套文档以及源码解析
 
-|专题		| 专题名称     															|
-|:-----:	| :---------------------------------------------------------------------|
-|001		| [Spring Boot 核心技术](http://www.jianshu.com/c/3f69deddbed3)			|
-|002		| [Spring Cloud 核心技术](http://www.jianshu.com/c/1faac22666e7)		|
-|003		| [QueryDSL 核心技术](http://www.jianshu.com/c/ab4789177827)			|
-|004		| [SpringDataJPA 核心技术](http://www.jianshu.com/c/f1b269bb2fd6)		|
+|专题		| 专题名称     															|专题描述	 |
+|:-----:	| :---------------------------------------------------------------------|:-----------|
+|001		| [Spring Boot 核心技术](http://www.jianshu.com/c/3f69deddbed3)			|讲解SpringBoot一些企业级层面的核心组件|
+|002		| [Spring Cloud 核心技术](http://www.jianshu.com/c/1faac22666e7)		|对Spring Cloud核心技术全面讲解|
+|003		| [QueryDSL 核心技术](http://www.jianshu.com/c/ab4789177827)			|全面讲解QueryDSL核心技术以及基于SpringBoot整合SpringDataJPA|
+|004		| [SpringDataJPA 核心技术](http://www.jianshu.com/c/f1b269bb2fd6)		|全面讲解SpringDataJPA核心技术|
 
 
 # 一、基础
@@ -24,12 +24,6 @@
 |010		|[第十章：配置SpringBoot支持自动装载Servlet](http://www.jianshu.com/p/2973bdd083ef)					|Chapter10  |
 |011		|[第十一章：实现SpringBoot单个、多个文件的上传](http://www.jianshu.com/p/7903b6ebe47f)					|Chapter11  |
 |012		|[第十二章：SpringBoot使用LogBack作为日志组件](http://www.jianshu.com/p/06b6574943df)					|Chapter12  |
-
-
-# 二、核心
-
-|章节		| 文章名称     															|源码项目名称|
-|:-----:	| :---------------------------------------------------------------------|:-----------|
 |013		|[第十三章：SpringBoot实战SpringDataJPA](http://www.jianshu.com/p/9d5bf0e4943f)					|Chapter13  |
 |014		|[第十四章：QueryDSL与SpringDataJPA共同服务于SpringBoot](http://www.jianshu.com/p/7379173e1970)					|Chapter14  |
 |015		|[第十五章：使用SpringBoot validator让数据更真实](http://www.jianshu.com/p/e111d3fbc583)					|Chapter15  |
@@ -48,21 +42,10 @@
 |028		|[第二十八章：SpringBoot使用AutoConfiguration自定义Starter](http://www.jianshu.com/p/188065e1137b)					|Chapter28  |
 |029		|[第二十九章：SpringBoot使用Lombok来优雅的编码](http://www.jianshu.com/p/9bd6ce692ab1)					|Chapter29  |
 |030		|[第三十章：SpringBoot使用MapStruct自动映射DTO](http://www.jianshu.com/p/3f20ca1a93b0)					|Chapter30  |
-
-
-# 三、配置
-
-|章节		| 文章名称     															|源码项目名称|
-|:-----:	| :---------------------------------------------------------------------|:-----------|
 |031		|[第三十一章：SpringBoot修改tomcat配置参数](http://www.jianshu.com/p/a4bb58331107)					|Chapter31  |
 |032		|[第三十二章：如何获取SpringBoot项目的applicationContext对象](http://www.jianshu.com/p/3cd2d4e73eb7)					|Chapter32  |
 |033		|[第三十三章：修改SpringBoot启动Banner](http://www.jianshu.com/p/c1f7617c99aa)					|Chapter33  |
 |034		|[第三十四章：SpringBoot自定义配置类](http://www.jianshu.com/p/2c2cdb80fe47)					|Chapter34  |
-
-
-# 四、提升
-|章节		| 文章名称     															|源码项目名称|
-|:-----:	| :---------------------------------------------------------------------|:-----------|
 |035		|[第三十五章：基于SpringBoot架构重写SpringMVC请求参数装载](http://www.jianshu.com/p/d8f844711bf4)					|Chapter35  |
 |036		|[第三十六章：基于SpringBoot架构重写SpringMVC请求参数装载](http://www.jianshu.com/p/24ebb66c25cb)					|Chapter36  |
 |037		|[第三十七章：基于SpringBoot架构以及参数装载完成接口安全认证](http://www.jianshu.com/p/e22691d2ad90)					|Chapter37  |
