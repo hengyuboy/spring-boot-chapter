@@ -50,7 +50,7 @@
 |036		|[第三十六章：基于SpringBoot架构重写SpringMVC请求参数装载](http://www.jianshu.com/p/24ebb66c25cb)					|Chapter36  |
 |037		|[第三十七章：基于SpringBoot架构以及参数装载完成接口安全认证](http://www.jianshu.com/p/e22691d2ad90)					|Chapter37  |
 |038		|[第三十八章：基于SpringBoot架构使用Profile完成打包环境分离](http://www.jianshu.com/p/23b4f882f397)					|Chapter38  |
-|039		|[第三十九章：基于SpringBoot & Quzrtz完成定时任务分布式持久化](http://www.jianshu.com/p/d52d62fb2ac6)					|Chapter39  |
+|039		|[第三十九章：第三十九章：基于SpringBoot & Quartz完成定时任务分布式单节点持久化](http://www.jianshu.com/p/d52d62fb2ac6)					|Chapter39  |
 |040		|[第四十章：基于SpringBoot & Quartz完成定时任务分布式多节点负载持久化](http://www.jianshu.com/p/49133c107143)					|Chapter40  |
 |041		|第四十一章： 基于SpringBoot & RabbitMQ消息队列完成分布式消息消费					|---  |
 |042		|第四十二章： 基于SpringBoot设计通用框架级别系统异常回调通知处理					|---  |
