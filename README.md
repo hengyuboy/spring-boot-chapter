@@ -52,7 +52,7 @@
 |038		|[第三十八章：基于SpringBoot架构使用Profile完成打包环境分离](http://www.jianshu.com/p/23b4f882f397)					|Chapter38  |
 |039		|[第三十九章：基于SpringBoot & Quartz完成定时任务分布式单节点持久化](http://www.jianshu.com/p/d52d62fb2ac6)					|Chapter39  |
 |040		|[第四十章：基于SpringBoot & Quartz完成定时任务分布式多节点负载持久化](http://www.jianshu.com/p/49133c107143)					|Chapter40  |
-|041		|第四十一章： 基于SpringBoot & RabbitMQ消息队列完成分布式消息消费					|---  |
+|041		|[第四十一章： 基于SpringBoot & RabbitMQ消息队列完成分布式消息消费](http://www.jianshu.com/p/6b62a0ed2491)					|Chapter41  |
 |042		|第四十二章： 基于SpringBoot设计通用框架级别系统异常回调通知处理					|---  |
 |043		|第四十三章：开源HGenerator代码生成Maven插件					|---  |
 |044		|第四十四章：  基于SpringBoot & AOP完成自定义Redis缓存数据读取					|---  |
