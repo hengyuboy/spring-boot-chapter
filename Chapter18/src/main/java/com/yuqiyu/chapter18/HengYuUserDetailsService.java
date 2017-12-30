@@ -8,7 +8,6 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
-import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -39,7 +38,7 @@ public class HengYuUserDetailsService implements UserDetailsService
         User userFromDatabase = userRepository.findByUsernameCaseInsensitive(lowercaseLogin);
 
         if (userFromDatabase == null) {
-            throw new UsernameNotFoundException("User " + lowercaseLogin + " was not found in the database");
+            throw new NewUserNotFoundException("User " + lowercaseLogin + " was not found in the database");
         }
         //获取用户的所有权限并且SpringSecurity需要的集合
         Collection<GrantedAuthority> grantedAuthorities = new ArrayList<>();

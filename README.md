@@ -54,12 +54,13 @@
 |040		|[第四十章：基于SpringBoot & Quartz完成定时任务分布式多节点负载持久化](http://www.jianshu.com/p/49133c107143)					|Chapter40  |
 |041		|[第四十一章： 基于SpringBoot & RabbitMQ完成DirectExchange分布式消息消费](http://www.jianshu.com/p/6b62a0ed2491)					|Chapter41  |
 |042		|[第四十二章： 基于SpringBoot & RabbitMQ完成DirectExchange分布式消息多消费者消费](http://www.jianshu.com/p/4cccb48ccef7)					|Chapter42  |
-|043		|第四十二章： 基于SpringBoot设计通用框架级别系统异常回调通知处理					|---  |
-|044		|第四十三章：开源HGenerator代码生成Maven插件					|---  |
-|045		|第四十四章：  基于SpringBoot & AOP完成自定义Redis缓存数据读取					|---  |
-|046		|第四十五章： 基于SpringBoot & AOP完成自定义Redis缓存数据更新 					|---  |
-|047		|第四十六章：基于SpringBoot使用MethodInterceptor打印请求参数日志					|---  |
-
+|043		|[第四十三章： 基于SpringBoot & RabbitMQ完成TopicExchange分布式消息消费](http://www.jianshu.com/p/ca279fb70008)				|Chapter43  |
+|044		|第四十四章： 基于SpringBoot & AOP完成统一资源自动查询映射					|---  |
+|045		|第四十五章： 基于SpringBoot设计通用框架级别系统异常回调通知处理					|---  |
+|046		|第四十六章：开源HGenerator代码生成Maven插件					|---  |
+|047		|第四十七章：  基于SpringBoot & AOP完成自定义Redis缓存数据读取					|---  |
+|048		|第四十八章： 基于SpringBoot & AOP完成自定义Redis缓存数据更新 					|---  |
+|049		|第四十九章：基于SpringBoot使用MethodInterceptor打印请求参数日志					|---  |
 
 欢迎加入QQ技术交流群，共同进步。
 ![](http://upload-images.jianshu.io/upload_images/4461954-d80b777ca38632ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)QQ技术交流群

@@ -85,6 +85,7 @@ public class JwtTokenInterceptor implements HandlerInterceptor
         {
             //输出对象
             PrintWriter writer = response.getWriter();
+
             //输出error消息
             writer.write("need refresh token");
             writer.close();
