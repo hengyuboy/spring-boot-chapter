@@ -1,0 +1,13 @@
+#数据源配置
+spring:
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+  datasource:
+    druid:
+      driver-class-name: com.mysql.jdbc.Driver
+      username: root
+      password: 123456
+      url: jdbc:mysql://127.0.0.1:3306/resources?characterEncoding=utf8
