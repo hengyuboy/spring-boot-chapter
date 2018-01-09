@@ -5,6 +5,7 @@ spring:
       hibernate:
         show_sql: true
         format_sql: true
+  #数据源配置
   datasource:
     druid:
       driver-class-name: com.mysql.jdbc.Driver

@@ -33,7 +33,7 @@ public class UserInfoService {
     /**
      * 更新用户名称查询用户详情
      * @param userName 用户名
-     * @return
+     * @return 用户详情
      */
     @ResourceMethod
     public UserDetailDTO selectByUserName(String userName) {
@@ -45,6 +45,9 @@ public class UserInfoService {
          * 通过mapStruct转换detailDto
          */
         UserDetailDTO detailDTO = UserMapStruct.INSTANCE.fromUserEntity(userInfoEntity);
+        /**
+         * 返回数据
+         */
         return detailDTO;
     }
 }

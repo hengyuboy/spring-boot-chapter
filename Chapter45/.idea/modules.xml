@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter45.iml" filepath="$PROJECT_DIR$/Chapter45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-exception-core/springboot-exception-core.iml" filepath="$PROJECT_DIR$/springboot-exception-core/springboot-exception-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-exception-example/springboot-exception-example.iml" filepath="$PROJECT_DIR$/springboot-exception-example/springboot-exception-example.iml" />
+    </modules>
+  </component>
+</project>
