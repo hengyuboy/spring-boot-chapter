@@ -56,7 +56,7 @@
 |042		|[第四十二章： 基于SpringBoot & RabbitMQ完成DirectExchange分布式消息多消费者消费](http://www.jianshu.com/p/4cccb48ccef7)					|Chapter42  |
 |043		|[第四十三章： 基于SpringBoot & RabbitMQ完成TopicExchange分布式消息消费](http://www.jianshu.com/p/ca279fb70008)				|Chapter43  |
 |044		|[第四十四章： 基于SpringBoot & AOP完成统一资源自动查询映射](https://www.jianshu.com/u/092df3f77bca)					|Chapter44  |
-|045		|第四十五章： 基于SpringBoot设计通用框架级别系统异常回调通知处理					|---  |
+|045		|[第四十五章： 基于SpringBoot设计通用框架级别系统异常回调通知处理](https://www.jianshu.com/p/a1e006db24e1)					|Chapter45  |
 |046		|第四十六章：开源HGenerator代码生成Maven插件					|---  |
 |047		|第四十七章：  基于SpringBoot & AOP完成自定义Redis缓存数据读取					|---  |
 |048		|第四十八章： 基于SpringBoot & AOP完成自定义Redis缓存数据更新 					|---  |
