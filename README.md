@@ -57,10 +57,12 @@
 |043		|[第四十三章： 基于SpringBoot & RabbitMQ完成TopicExchange分布式消息消费](http://www.jianshu.com/p/ca279fb70008)				|Chapter43  |
 |044		|[第四十四章： 基于SpringBoot & AOP完成统一资源自动查询映射](https://www.jianshu.com/u/092df3f77bca)					|Chapter44  |
 |045		|[第四十五章： 基于SpringBoot设计通用框架级别系统异常回调通知处理](https://www.jianshu.com/p/a1e006db24e1)					|Chapter45  |
-|046		|第四十六章：开源HGenerator代码生成Maven插件					|---  |
-|047		|第四十七章：  基于SpringBoot & AOP完成自定义Redis缓存数据读取					|---  |
-|048		|第四十八章： 基于SpringBoot & AOP完成自定义Redis缓存数据更新 					|---  |
-|049		|第四十九章：基于SpringBoot使用MethodInterceptor打印请求参数日志					|---  |
+|046		|[第四十六章：SpringBoot & RabbitMQ完成消息延迟消费](https://www.jianshu.com/p/b74a14c7f31d)|Chapter46  |
+|047		|第四十七章：基于SpringBoot 设计系统异常 & 业务逻辑异常全局异步通知|---  |
+|048		|第四十八章：开源HGenerator代码生成Maven插件					|---  |
+|049		|第四十九章：  基于SpringBoot & AOP完成自定义Redis缓存数据读取					|---  |
+|050		|第五十章： 基于SpringBoot & AOP完成自定义Redis缓存数据更新 					|---  |
+|051		|第五十一
 
 欢迎加入QQ技术交流群，共同进步。
 ![](http://upload-images.jianshu.io/upload_images/4461954-d80b777ca38632ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)QQ技术交流群
