@@ -24,12 +24,12 @@ import javax.sql.DataSource;
  * Time：14:07
  * 码云：http://git.oschina.net/jnyqy
  * ========================
- * @author  恒宇少年
+ *
+ * @author 恒宇少年
  */
 @Configuration
 @EnableScheduling
-public class QuartzConfiguration
-{
+public class QuartzConfiguration {
     /**
      * 继承org.springframework.scheduling.quartz.SpringBeanJobFactory
      * 实现任务实例化方式
@@ -47,6 +47,7 @@ public class QuartzConfiguration
         /**
          * 将job实例交给spring ioc托管
          * 我们在job实例实现类内可以直接使用spring注入的调用被spring ioc管理的实例
+         *
          * @param bundle
          * @return
          * @throws Exception
@@ -64,12 +65,12 @@ public class QuartzConfiguration
 
     /**
      * 配置任务工厂实例
+     *
      * @param applicationContext spring上下文实例
      * @return
      */
     @Bean
-    public JobFactory jobFactory(ApplicationContext applicationContext)
-    {
+    public JobFactory jobFactory(ApplicationContext applicationContext) {
         /**
          * 采用自定义任务工厂 整合spring实例来完成构建任务
          * see {@link AutowiringSpringBeanJobFactory}
@@ -82,14 +83,14 @@ public class QuartzConfiguration
     /**
      * 配置任务调度器
      * 使用项目数据源作为quartz数据源
+     *
      * @param jobFactory 自定义配置任务工厂
      * @param dataSource 数据源实例
      * @return
      * @throws Exception
      */
-    @Bean(destroyMethod = "destroy",autowire = Autowire.NO)
-    public SchedulerFactoryBean schedulerFactoryBean(JobFactory jobFactory, DataSource dataSource) throws Exception
-    {
+    @Bean(destroyMethod = "destroy", autowire = Autowire.NO)
+    public SchedulerFactoryBean schedulerFactoryBean(JobFactory jobFactory, DataSource dataSource) throws Exception {
         SchedulerFactoryBean schedulerFactoryBean = new SchedulerFactoryBean();
         //将spring管理job自定义工厂交由调度器维护
         schedulerFactoryBean.setJobFactory(jobFactory);

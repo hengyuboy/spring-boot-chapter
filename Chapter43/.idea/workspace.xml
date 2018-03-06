@@ -30,17 +30,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="59" column="21" selection-start-line="32" selection-start-column="8" selection-end-line="59" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -128,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,12 +126,127 @@
               <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter43" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter43" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-topic-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter43" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-topic-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter43" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-topic-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter43" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-topic-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter43" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-topic-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter43" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-topic-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hengyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter43" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-topic-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hengyu" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter43" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-topic-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hengyu" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter43" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-topic-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hengyu" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter43" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-topic-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hengyu" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.rabbitmq:amqp-client:4.0.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.rabbitmq:amqp-client:4.0.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="amqp-client-4.0.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.rabbitmq:amqp-client:4.0.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="amqp-client-4.0.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -151,7 +257,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="AmqpAdmin&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.amqp.RabbitAutoConfiguration.RabbitTemplateConfiguration#amqpAdmin" />
+    <property name="SearchEverywhereHistoryKey" value="defaultclass&#9;PSI&#9;JAVA://org.springframework.amqp.support.converter.DefaultClassMapper&#10;AmqpAdmin&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.amqp.RabbitAutoConfiguration.RabbitTemplateConfiguration#amqpAdmin" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -317,6 +423,7 @@
       <workItem from="1514651934191" duration="280000" />
       <workItem from="1514688127475" duration="640000" />
       <workItem from="1520065804177" duration="74000" />
+      <workItem from="1520303532304" duration="713000" />
     </task>
     <servers />
   </component>
@@ -353,7 +460,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44870000" />
+    <option name="totallyTimeSpent" value="45583000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,13 +473,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="6" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.32805756" />
-      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="0" weight="0.22478387" />
-      <window_info anchor="bottom" id="JRebel Executor" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
       <window_info anchor="right" id="Database" order="2" weight="0.3299356" />
@@ -392,7 +498,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.35302594" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
-      <window_info id="JRebel" side_tool="true" />
+      <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -406,10 +512,9 @@
     <layout-to-restore>
       <window_info id="Designer" order="1" />
       <window_info anchor="right" id="Palette" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.41438848" />
       <window_info anchor="bottom" id="Spring" order="3" />
       <window_info id="Image Layers" order="7" />
-      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.41438848" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -433,8 +538,9 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Structure" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,9 +634,6 @@
     <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/4.0.3/amqp-client-4.0.3.jar!/com/rabbitmq/client/impl/AMQChannel.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.4.RELEASE/spring-rabbit-1.7.4.RELEASE.jar!/org/springframework/amqp/rabbit/listener/SimpleMessageListenerContainer.class" />
     <entry file="file://I:/BaiduNetdiskDownload/microservice-fyys/microservice-fyys-api/src/main/java/com/sanmi/microservice/fyys/api/MicroserviceFyysApiApplication.java" />
-    <entry file="file://$PROJECT_DIR$/rabbitmq-topic-common/rabbitmq-topic-common.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/rabbitmq-topic-provider/src/main/resources/application.yml" />
     <entry file="file://$PROJECT_DIR$/rabbitmq-topic-common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -555,13 +658,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbitmq-topic-common/src/main/java/com/hengyu/rabbitmq/common/configuration/RabbitMqConfiguration.java" />
-    <entry file="file://$PROJECT_DIR$/rabbitmq-topic-common/src/main/java/com/hengyu/rabbitmq/common/configuration/UserRegisterQueueConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rabbitmq-topic-consumer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -642,8 +738,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="59" column="21" selection-start-line="32" selection-start-column="8" selection-end-line="59" selection-end-column="21" />
+        <state relative-caret-position="1342">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-topic-common/src/main/java/com/hengyu/rabbitmq/common/configuration/UserRegisterQueueConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.4.RELEASE/spring-amqp-1.7.4.RELEASE.jar!/org/springframework/amqp/support/converter/DefaultClassMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+          <folding>
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
