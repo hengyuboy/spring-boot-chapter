@@ -59,7 +59,7 @@
 |045		|[第四十五章： 基于SpringBoot设计通用框架级别系统异常回调通知处理](https://www.jianshu.com/p/a1e006db24e1)					|Chapter45  |
 |046		|[第四十六章：SpringBoot & RabbitMQ完成消息延迟消费](https://www.jianshu.com/p/b74a14c7f31d)|Chapter46  |
 |047		|[第四十七章：SpringBoot2.0新特性 - Quartz自动化配置集成](https://www.jianshu.com/p/056281e057b3)|Chapter47  |
-|048		|第四十八章：SpringBoot2.0新特性 - RabbitMQ信任package设置|---  |
+|048		|[第四十八章：SpringBoot2.0新特性 - RabbitMQ信任package设置](https://www.jianshu.com/p/13fd9ff0648d)|Chapter48  |
 |049		|第四十九章：SpringBoot2.0新特性 - 扩展WebMvcConfigurer自定义配置|---  |
 |050		|第五十章：基于SpringBoot 设计系统异常 & 业务逻辑异常全局异步通知|---  |
 |051		|第五十一章：开源HGenerator代码生成Maven插件					|---  |
