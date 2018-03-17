@@ -60,7 +60,7 @@
 |046		|[第四十六章：SpringBoot & RabbitMQ完成消息延迟消费](https://www.jianshu.com/p/b74a14c7f31d)|Chapter46  |
 |047		|[第四十七章：SpringBoot2.0新特性 - Quartz自动化配置集成](https://www.jianshu.com/p/056281e057b3)|Chapter47  |
 |048		|[第四十八章：SpringBoot2.0新特性 - RabbitMQ信任package设置](https://www.jianshu.com/p/13fd9ff0648d)|Chapter48  |
-|049		|[第四十九章：SpringBoot2.0新特性 - 扩展WebMvcConfigurer自定义配置](https://www.jianshu.com/p/77482f0b59e9)|Chapter49  |
+|049		|[第四十九章：SpringBoot2.0新特性 - 扩展WebMvcConfigurer的两种方式](https://www.jianshu.com/p/77482f0b59e9)|Chapter49  |
 |050		|第五十章：基于SpringBoot 设计系统异常 & 业务逻辑异常全局异步通知|---  |
 |051		|第五十一章：开源HGenerator代码生成Maven插件					|---  |
 |052		|第五十二章：基于SpringBoot & AOP完成自定义Redis缓存数据读取					|---  |
