@@ -62,7 +62,7 @@
 |048		|[第四十八章：SpringBoot2.0新特性 - RabbitMQ信任package设置](https://www.jianshu.com/p/13fd9ff0648d)|Chapter48  |
 |049		|[第四十九章：SpringBoot2.0新特性 - 扩展WebMvcConfigurer的两种方式](https://www.jianshu.com/p/77482f0b59e9)|Chapter49  |
 |050		|[第五十章：SpringBoot2.0新特性 - 岂止至今最简单redis缓存集成](https://www.jianshu.com/p/4ccd4512700f)|Chapter50  |
-|051		|[第五十一章：基于SpringBoot2 & mongodb完成自动化集成](https://www.jianshu.com/p/2ec104e4ab39)					|Chater51  |
+|051		|[第五十一章：基于SpringBoot2 & mongodb完成自动化集成](https://www.jianshu.com/p/2ec104e4ab39)					|Chapter51  |
 |052		|第五十二章：基于SpringBoot & AOP完成自定义Redis缓存数据读取					|---  |
 |053		|第五十三章： 基于SpringBoot & AOP完成自定义Redis缓存数据更新 					|---  |
 
