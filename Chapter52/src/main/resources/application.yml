@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-boot-mongodb-rest
+  # mongodb配置信息
+  data:
+    mongodb:
+      uri: mongodb://localhost/test
+      username: test
+      password: 123456
