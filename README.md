@@ -7,6 +7,9 @@
 |003		| [QueryDSL 核心技术](http://www.jianshu.com/c/ab4789177827)			|全面讲解QueryDSL核心技术以及基于SpringBoot整合SpringDataJPA|
 |004		| [SpringDataJPA 核心技术](http://www.jianshu.com/c/f1b269bb2fd6)		|全面讲解SpringDataJPA核心技术|
 
+# 欢迎关注公众号
+
+![微信公众号](http://resource.hengboy.com/image/qrcode.jpg)
 
 # 【SpringBoot 核心技术】专题文章对应源码
 
