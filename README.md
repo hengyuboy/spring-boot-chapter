@@ -10,6 +10,7 @@
 # 欢迎关注公众号
 
 ![微信公众号](http://resource.hengboy.com/image/qrcode.jpg)
+关注微信公众号，回复`加群`，获取交流群群号。
 
 # 【SpringBoot 核心技术】专题文章对应源码
 
@@ -68,8 +69,6 @@
 |051		|[第五十一章：基于SpringBoot2 & mongodb完成自动化集成](https://www.jianshu.com/p/2ec104e4ab39)					|Chapter51  |
 |052		|[第五十二章：使用SpringBoot Data Rest读取MongoDB内的数据](https://www.jianshu.com/p/69da713e18f6)					|Chapter52  |
 
-欢迎加入QQ技术交流群，共同进步。
-![](http://upload-images.jianshu.io/upload_images/4461954-d80b777ca38632ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)QQ技术交流群
 
 
 
